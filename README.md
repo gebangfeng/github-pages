@@ -17,17 +17,14 @@
 
 <details>
 <summary>⚗️功能亮点：点击展开</summary>
-
-这里是需要合并的内容。
-
-</details>
-⚗️功能亮点：
-
 - 三步配置生成一个属于自己的免费个人博客。
 - 使用[Vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)主题，感谢作者写出如此简洁美观的博客主题。
 - 模板已内置集成全文搜索能力。
 - 模板已内置集成基于GitHub Issue的vssue评论系统。
 - 本地Markdown编写文档，提交到远程之后`GitHub Actions`自动构建发布。
+
+</details>
+
 
 🦩 以下仅需简短的几步配置，就可以配置拥有一个免费的个人博客。准备好了吗，来吧！
 
