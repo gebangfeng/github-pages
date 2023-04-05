@@ -15,7 +15,12 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
 </div><br>
 
+<details>
+<summary>⚗️功能亮点：点击展开</summary>
 
+这里是需要合并的内容。
+
+</details>
 ⚗️功能亮点：
 
 - 三步配置生成一个属于自己的免费个人博客。
